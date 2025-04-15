@@ -3,12 +3,22 @@ Welcome to my Data Science Projects Repository. This repository contains a colle
 
 What's Inside:
 
-Exploratory Data Analysis (EDA): Detailed investigations of real-world datasets to uncover patterns and trends.
+Exploratory Data Analysis (EDA): 
 
-Machine Learning Models: Supervised and unsupervised learning techniques with performance evaluations.
+Detailed investigations of real-world datasets to uncover patterns and trends.
 
-Data Visualizations: Interactive and static plots for communicating insights effectively.
+Machine Learning Models:
 
-Notebooks & Scripts: Jupyter notebooks and Python scripts for step-by-step walkthroughs.
+Supervised and unsupervised learning techniques with performance evaluations.
 
-Project Reports: Summary reports, conclusions, and future work notes.
+Data Visualizations:
+
+Interactive and static plots for communicating insights effectively.
+
+Notebooks & Scripts: 
+
+Jupyter notebooks and Python scripts for step-by-step walkthroughs.
+
+Project Reports: 
+
+Summary reports, conclusions, and future work notes.
